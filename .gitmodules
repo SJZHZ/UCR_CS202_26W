@@ -1,3 +1,6 @@
 [submodule "lab-0-environment-setup-yue"]
 	path = lab-0-environment-setup-yue
 	url = git@github.com:UCR-CS202/lab-0-environment-setup-yue.git
+[submodule "xv6-labs-2025"]
+	path = xv6-labs-2025
+	url = git://g.csail.mit.edu/xv6-labs-2025
