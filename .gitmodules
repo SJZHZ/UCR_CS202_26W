@@ -4,3 +4,6 @@
 [submodule "xv6-labs-2025"]
 	path = xv6-labs-2025
 	url = git://g.csail.mit.edu/xv6-labs-2025
+[submodule "lab-1-copy-on-write-fork-for-xv6-yue"]
+	path = lab-1-copy-on-write-fork-for-xv6-yue
+	url = git@github.com:UCR-CS202/lab-1-copy-on-write-fork-for-xv6-yue.git
