@@ -7,3 +7,6 @@
 [submodule "lab-1-copy-on-write-fork-for-xv6-yue"]
 	path = lab-1-copy-on-write-fork-for-xv6-yue
 	url = git@github.com:UCR-CS202/lab-1-copy-on-write-fork-for-xv6-yue.git
+[submodule "lab-2-read-copy-update-for-xv6-yue"]
+	path = lab-2-read-copy-update-for-xv6-yue
+	url = git@github.com:UCR-CS202/lab-2-read-copy-update-for-xv6-yue.git
